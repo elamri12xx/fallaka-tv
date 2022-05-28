@@ -5,6 +5,6 @@ http://elamri1-stream-sport.tk.global.prod.fastly.net/hls/74/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.64001e,mp4a.40.2"
 http://elamri1-stream-sport.tk.global.prod.fastly.net/hls/61/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
-http://elamri1-stream-sport.tk.global.prod.fastly.net/hls/73/index.m3u8
+http://reda-local.ma.global.prod.fastly.net/live/34baxmo5/56bwf44u/12694.ts
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001e,mp4a.40.2"
-http://elamri1-stream-sport.tk.global.prod.fastly.net/hls/73/index.m3u8
+http://reda-local.ma.global.prod.fastly.net/live/34baxmo5/56bwf44u/12694.ts
